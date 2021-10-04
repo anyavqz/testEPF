@@ -66,7 +66,7 @@ public class Calculator {
             System.out.println(operand1%operand2);
         }
         
-       // salut grosse pute
+       // salut grosse pute c toi a pute wsh
     }
     
 }
