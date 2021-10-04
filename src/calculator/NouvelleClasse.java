@@ -9,5 +9,5 @@ package calculator;
  * @author anyavazquez
  */
 public class NouvelleClasse {
-    
+    // pas moi beurk
 }
