@@ -29,6 +29,7 @@ public class Calculator {
             System.out.println("Erreur, veuillez entrer un nombre entre 1 et 5");
             System.exit(0);
         }
+        // Bonjour
         //System.out.println(operateur);//on vérifie que operateur correspond bien à la valeur entrée par l'utilisateur
         
         // Exercice 4
@@ -65,7 +66,7 @@ public class Calculator {
             System.out.println(operand1%operand2);
         }
         
-       
+       // salut grosse pute
     }
     
 }
