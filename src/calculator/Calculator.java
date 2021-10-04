@@ -20,7 +20,7 @@ public class Calculator {
     public static void main(String[] args) {
         // Exercice 2
         System.out.println("Please enter the operator:\n 1) Add\n 2) Substract\n 3) multiply\n 4) divide\n 5) Modulo");
-        
+        System.out.println("hello");
         // Exercice 3
         int operateur;
         Scanner sc = new Scanner(System.in);
